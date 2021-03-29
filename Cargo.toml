@@ -1,0 +1,10 @@
+[package]
+name = "socket-programming-rs"
+version = "0.1.0"
+authors = ["yuya <yuyas203@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+env_logger = "0.8.3"
+failure = "0.1.8"
+log = "0.4.14"
